@@ -26,6 +26,6 @@ page. (It works correctly on Windows.)
 
 **Actual behavior:**
 
-- The page 1 thumbnail is blank white image.
+- The page 1 thumbnail is a blank white image.
 - The following warning is printed mulitple times: "Path conversion requested
   528000 bytes (2560 x 1650). Maximum size is 262144 bytes."
